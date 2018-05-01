@@ -1,4 +1,4 @@
-# linear-algebra-machine-learning
+# Mathematics for Machine Learning: Linear Algebra
 
 Mathematics for Machine Learning: Linear Algebra
 
